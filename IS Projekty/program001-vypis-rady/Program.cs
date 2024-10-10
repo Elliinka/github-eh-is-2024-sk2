@@ -4,8 +4,8 @@ class Program {
 
     static void Main(){
 
-        string again = "a";       // chci, aby se program opakoval po stisku klávesy "a"
-        while(again == "a") {       // == je porovnávání, = je přiřazení hodnoty
+        string again = "a";                  // chci, aby se program opakoval po stisku klávesy "a"
+        while(again == "a") {                // == je porovnávání, = je přiřazení hodnoty
             Console.Clear(); 
             Console.WriteLine("*******************************");
             Console.WriteLine("**********Výpis řady***********");
@@ -15,8 +15,8 @@ class Program {
             Console.WriteLine();            // prázdný řádek takto a nebo pomocí \n za poslední řádek nad tímto
             
             // vstup od uživatele - špatná varianta
-            // Console.Write("Zadejte první číslo řady: ");
-            // int first = int.Parse(Console.ReadLine());
+                // Console.Write("Zadejte první číslo řady: ");
+                // int first = int.Parse(Console.ReadLine());
 
 
             // logika pro výpis řady - lepší varianta
@@ -49,10 +49,14 @@ class Program {
             Console.WriteLine();
 
 
-
-
             // logika pro výpis řady - TO-DO
+            int current = first;
+            while(current <= last) {
+                Console.WriteLine(current);
+                current = current + step;
+            }
 
+            // opakování programu
             Console.WriteLine("Pro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
 
