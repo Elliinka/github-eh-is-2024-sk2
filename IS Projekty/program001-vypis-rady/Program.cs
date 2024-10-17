@@ -1,6 +1,4 @@
-﻿using System;
-
-class Program {
+﻿class Program {
 
     static void Main(){
 
@@ -26,40 +24,11 @@ class Program {
                 Console.Write("Nezadali jste celé číslo. Zadejte znovu první číslo řady (celé číslo): ");
             }
 
-              Console.Write("Zadejte poslední číslo řady (celé číslo): ");
-            int last;
-            while(!int.TryParse(Console.ReadLine(), out last)) {
-                Console.Write("Nezadali jste celé číslo. Zadejte znovu poslední číslo řady (celé číslo): ");
-            }
 
-              Console.Write("Zadejte třetí číslo řady (celé číslo): ");
-            int step;
-            while(!int.TryParse(Console.ReadLine(), out step)) {
-                Console.Write("Nezadali jste celé číslo. Zadejte diferenci (celé číslo): ");
-            }
-
-
-            // výpis uživatelského vstupu
-            Console.WriteLine();
-            Console.WriteLine("=========================================");
-            Console.WriteLine("První číslo řady: {0}", first);
-            Console.WriteLine("Poslední číslo řady: {0}", last);
-            Console.WriteLine("Diference {0}", step);
-            Console.WriteLine();
-            Console.WriteLine();
-
-
-            // logika pro výpis řady - TO-DO
-            int current = first;
-            while(current <= last) {
-                Console.WriteLine(current);
-                current = current + step;
-            }
 
             // opakování programu
             Console.WriteLine("Pro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
-
 
 
         }
