@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "program003b-trojuhelnik/1.0.0": {
+        "runtime": {
+          "program003b-trojuhelnik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program003b-trojuhelnik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
   },
   "projects": {
-    "c:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "projectName": "program001-vypis-rady",
-        "projectPath": "c:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectPath": "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "packagesPath": "C:\\Users\\elikh\\.nuget\\packages\\",
-        "outputPath": "c:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program001-vypis-rady\\obj\\",
+        "outputPath": "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program001-vypis-rady\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elikh\\AppData\\Roaming\\NuGet\\NuGet.Config"
