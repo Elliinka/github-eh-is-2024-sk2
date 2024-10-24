@@ -45,6 +45,8 @@ class Program {
             //PŘÍPRAVA PRO GENEROVÁNÍ NÁHODNÝCH ČÍSEL
             Random randomNumber = new Random();
 
+            int kladna = 0;
+            int zaporna = 0
             Console.WriteLine("Náhodná čísla: ");
 
             for(int i=0; i<n; i++){
