@@ -39,8 +39,23 @@
             Console.WriteLine("Počet čísel: {0}; dolní mez: {1}; horní mez: {2}", n, dm, hm);
             Console.WriteLine("\n\n======================================\n\n");
 
-            // opakování programu
-            Console.WriteLine("Pro opakování programu stiskněte klávesu a");
+            //DEKLARACE POLE
+            int[]myArray = new int[n];
+
+            //PŘÍPRAVA PRO GENEROVÁNÍ NÁHODNÝCH ČÍSEL
+            Random randomNumber = new Random();
+
+            Console.WriteLine("Náhodná čísla: ");
+
+            for(int i=0; i<n; i++){
+                 myArray[i] = randomNumber.Next(dm, hm);              //Metoda next generuje náhodná čísla, potřebuje k tomu ale dm a hm
+                Console.Write("{0}; ", myArray[i]);
+            }
+           
+            
+
+            //OPAKOVÁNÍ PROGRAMU
+            Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
 
 
