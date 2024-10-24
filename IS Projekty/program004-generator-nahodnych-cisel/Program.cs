@@ -49,6 +49,8 @@
             int kladna = 0;
             int zaporna = 0;
             int nuly = 0;
+            int suda = 0;
+            int licha = 0;
 
 
             Console.WriteLine("Náhodná čísla: ");
@@ -64,12 +66,21 @@
                 zaporna++;
             else
                 nuly++;
+           
+
+            if(myArray[i] % 2 == 0)
+                suda++;
+                else
+                licha++;
             }
-            
+
+
             Console.WriteLine("\n\nPočet kladných čísel: {0}", kladna);
             Console.WriteLine("Počet záporných čísel: {0}", zaporna);
             Console.WriteLine("Počet nul: {0}", nuly);
            
+           Console.WriteLine("Počet sudých čísel: {0}", suda);
+           Console.WriteLine("Počet lichých čísel: {0}", licha);
             
 
             //OPAKOVÁNÍ PROGRAMU
