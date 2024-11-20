@@ -49,6 +49,9 @@
                 myArray[i] = randomNumber.Next(dm, hm);
                 Console.Write("{0}; ", myArray[i]);
             }
+                        
+            Console.WriteLine("\n\n============================================================");
+
 
 //SELECTION SORTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
 
@@ -65,13 +68,40 @@
                 myArray[i] = myArray[maxIndex];
                 myArray[maxIndex] = tmp;
             }
-            for(int i=0;i<n;i++)
-            {
-            Console.Write("{0}; ",myArray[i]);
+            for(int i=0;i<n;i++){
+                Console.Write("{0}; ",myArray[i]);
             }
+            
 
             Console.WriteLine("\n\n============================================================");
             
+//INSERTION SORTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+
+            Console.WriteLine("\nPole po seřazení algoritmem Insertion Sort: ");
+
+            
+                for (int i = 0; i < n - 1; i++)
+                {
+                    int j = i + 1;
+                    int tmp = myArray[j];
+                    while (j > 0 && tmp > myArray[j - 1])
+                    {
+                        myArray[j] = myArray[j - 1];
+                        j--;
+                    }
+                    myArray[j] = tmp;
+                }
+
+            {
+            for(int i=0;i<n;i++){
+                Console.Write("{0}; ",myArray[i]);
+            }            
+            
+            }
+            
+
+
+
 
 
 
