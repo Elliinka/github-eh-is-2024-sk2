@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\bin\Debug\net8.0\program008-dalsi-radici-metody.exe
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\bin\Debug\net8.0\program008-dalsi-radici-metody.deps.json
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\bin\Debug\net8.0\program008-dalsi-radici-metody.runtimeconfig.json
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\bin\Debug\net8.0\program008-dalsi-radici-metody.dll
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\bin\Debug\net8.0\program008-dalsi-radici-metody.pdb
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\obj\Debug\net8.0\program008-dalsi-radici-metody.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\obj\Debug\net8.0\program008-dalsi-radici-metody.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\obj\Debug\net8.0\program008-dalsi-radici-metody.AssemblyInfo.cs
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\obj\Debug\net8.0\program008-dalsi-radici-metody.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\obj\Debug\net8.0\program008-dalsi-radici-metody.sourcelink.json
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\obj\Debug\net8.0\program008-dalsi-radici-metody.dll
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\obj\Debug\net8.0\refint\program008-dalsi-radici-metody.dll
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\obj\Debug\net8.0\program008-dalsi-radici-metody.pdb
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\obj\Debug\net8.0\program008-dalsi-radici-metody.genruntimeconfig.cache
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program008-dalsi-radici-metody\obj\Debug\net8.0\ref\program008-dalsi-radici-metody.dll
