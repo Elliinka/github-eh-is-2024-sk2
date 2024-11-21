@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "program012-intervaly/1.0.0": {
+        "runtime": {
+          "program012-intervaly.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program012-intervaly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
