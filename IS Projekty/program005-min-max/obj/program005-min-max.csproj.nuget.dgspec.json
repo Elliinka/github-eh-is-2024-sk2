@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program005-min-max\\program005-min-max.csproj": {}
+  },
+  "projects": {
+    "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program005-min-max\\program005-min-max.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program005-min-max\\program005-min-max.csproj",
+        "projectName": "program005-min-max",
+        "projectPath": "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program005-min-max\\program005-min-max.csproj",
+        "packagesPath": "C:\\Users\\elikh\\.nuget\\packages\\",
+        "outputPath": "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program005-min-max\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elikh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
