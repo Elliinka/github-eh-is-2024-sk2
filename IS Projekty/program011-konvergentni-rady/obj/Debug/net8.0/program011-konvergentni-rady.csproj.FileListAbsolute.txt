@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\bin\Debug\net8.0\program011-konvergentni-rady.exe
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\bin\Debug\net8.0\program011-konvergentni-rady.deps.json
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\bin\Debug\net8.0\program011-konvergentni-rady.runtimeconfig.json
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\bin\Debug\net8.0\program011-konvergentni-rady.dll
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\bin\Debug\net8.0\program011-konvergentni-rady.pdb
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\obj\Debug\net8.0\program011-konvergentni-rady.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\obj\Debug\net8.0\program011-konvergentni-rady.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\obj\Debug\net8.0\program011-konvergentni-rady.AssemblyInfo.cs
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\obj\Debug\net8.0\program011-konvergentni-rady.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\obj\Debug\net8.0\program011-konvergentni-rady.sourcelink.json
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\obj\Debug\net8.0\program011-konvergentni-rady.dll
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\obj\Debug\net8.0\refint\program011-konvergentni-rady.dll
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\obj\Debug\net8.0\program011-konvergentni-rady.pdb
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\obj\Debug\net8.0\program011-konvergentni-rady.genruntimeconfig.cache
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program011-konvergentni-rady\obj\Debug\net8.0\ref\program011-konvergentni-rady.dll

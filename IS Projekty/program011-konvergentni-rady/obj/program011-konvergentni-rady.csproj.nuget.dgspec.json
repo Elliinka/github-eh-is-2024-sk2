@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program011-konvergentni-rady\\program011-konvergentni-rady.csproj": {}
+  },
+  "projects": {
+    "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program011-konvergentni-rady\\program011-konvergentni-rady.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program011-konvergentni-rady\\program011-konvergentni-rady.csproj",
+        "projectName": "program011-konvergentni-rady",
+        "projectPath": "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program011-konvergentni-rady\\program011-konvergentni-rady.csproj",
+        "packagesPath": "C:\\Users\\elikh\\.nuget\\packages\\",
+        "outputPath": "C:\\aaa\\IS-2024\\github-eh-is-2024-sk2\\IS Projekty\\program011-konvergentni-rady\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elikh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

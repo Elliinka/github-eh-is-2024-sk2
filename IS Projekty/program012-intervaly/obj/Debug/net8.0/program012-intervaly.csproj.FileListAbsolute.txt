@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\bin\Debug\net8.0\program012-intervaly.exe
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\bin\Debug\net8.0\program012-intervaly.deps.json
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\bin\Debug\net8.0\program012-intervaly.runtimeconfig.json
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\bin\Debug\net8.0\program012-intervaly.dll
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\bin\Debug\net8.0\program012-intervaly.pdb
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\obj\Debug\net8.0\program012-intervaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\obj\Debug\net8.0\program012-intervaly.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\obj\Debug\net8.0\program012-intervaly.AssemblyInfo.cs
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\obj\Debug\net8.0\program012-intervaly.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\obj\Debug\net8.0\program012-intervaly.sourcelink.json
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\obj\Debug\net8.0\program012-intervaly.dll
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\obj\Debug\net8.0\refint\program012-intervaly.dll
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\obj\Debug\net8.0\program012-intervaly.pdb
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\obj\Debug\net8.0\program012-intervaly.genruntimeconfig.cache
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program012-intervaly\obj\Debug\net8.0\ref\program012-intervaly.dll
