@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\obj\Debug\net8.0\program000b-zakladni-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\obj\Debug\net8.0\program000b-zakladni-generator.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\obj\Debug\net8.0\program000b-zakladni-generator.AssemblyInfo.cs
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\obj\Debug\net8.0\program000b-zakladni-generator.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\obj\Debug\net8.0\program000b-zakladni-generator.sourcelink.json
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\bin\Debug\net8.0\program000b-zakladni-generator.exe
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\bin\Debug\net8.0\program000b-zakladni-generator.deps.json
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\bin\Debug\net8.0\program000b-zakladni-generator.runtimeconfig.json
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\bin\Debug\net8.0\program000b-zakladni-generator.dll
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\bin\Debug\net8.0\program000b-zakladni-generator.pdb
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\obj\Debug\net8.0\program000b-zakladni-generator.dll
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\obj\Debug\net8.0\refint\program000b-zakladni-generator.dll
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\obj\Debug\net8.0\program000b-zakladni-generator.pdb
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\obj\Debug\net8.0\program000b-zakladni-generator.genruntimeconfig.cache
+C:\aaa\IS-2024\github-eh-is-2024-sk2\IS Projekty\program000b-zakladni-generator\obj\Debug\net8.0\ref\program000b-zakladni-generator.dll

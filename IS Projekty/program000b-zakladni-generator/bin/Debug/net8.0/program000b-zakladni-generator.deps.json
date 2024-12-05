@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "program000b-zakladni-generator/1.0.0": {
+        "runtime": {
+          "program000b-zakladni-generator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program000b-zakladni-generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
