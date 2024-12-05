@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program004-generator-nahodnych-cisel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d7f74b6cf2eef96759f9957367417ee07a16f28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47b1966515da2b56b48f0f7b1af98e3bf059222c")]
 [assembly: System.Reflection.AssemblyProductAttribute("program004-generator-nahodnych-cisel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program004-generator-nahodnych-cisel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

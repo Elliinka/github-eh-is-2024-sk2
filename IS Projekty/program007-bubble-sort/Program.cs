@@ -10,7 +10,7 @@ string again = "a";             // operátor = je přiřazení hodnoty
             Console.WriteLine("*************************************\n\n");
             Console.WriteLine();
 
-            // Vstup od uživatele TO-DO - správná verze
+
             Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
             int n;
             while(!int.TryParse(Console.ReadLine(), out n)) {
@@ -47,9 +47,7 @@ string again = "a";             // operátor = je přiřazení hodnoty
                 Console.Write("{0}; ", myArray[i]);
             }
 
-            Stopwatch myStopwatch = new Stopwatch();
-
-            myStopwatch.Start();
+            //ZAČÁTEK BUBBLE SORTU
 
             int numberCompare = 0;
             int numberChange = 0;
@@ -60,6 +58,7 @@ string again = "a";             // operátor = je přiřazení hodnoty
             for(int i=0; i<n-1; i++) {
                 for(int j=0; j<n-i-1; j++) {
                     numberCompare++;
+
                     if(myArray[j] < myArray[j+1]) {
                         int tmp = myArray[j];               //na dalším řádku se mi vyskytne ten prvek
                         myArray[j] = myArray[j+1];          //tmp = temporary proměnná = dočasná
@@ -68,22 +67,18 @@ string again = "a";             // operátor = je přiřazení hodnoty
                     }
                 }
             }
-            myStopwatch.Stop();
 
             Console.WriteLine("\n\nSeřazení pole podle BUBBLE SORTU: ");
             for(int i=0; i<n; i++) {
                 Console.Write("{0}; ", myArray[i]);
             }
             
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.BackgroundColor = ConsoleColor.Black;
-            Console.WriteLine("\n\nČas potřebný na seřazení pole algoritmem BUBBLE SORT: {0}", myStopwatch.Elapsed);
-
+           
             Console.WriteLine("\nPočet porovnání: {0}", numberCompare);
             Console.WriteLine("Počet výměn: {0}", numberChange);
 
-
-            Console.ResetColor();
+            //KONEC BUBBLE SORTU
+            
             // Opakování programu
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
